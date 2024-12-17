@@ -3,11 +3,11 @@
 banner:
   title: "Accelerate a Sustainable Growth"
   content: "Verdiant Earth is a Sustainability Solution partner with a focus on ESG risk compliance and Carbon management, providing an One-stop solution for capacity building and green growth opportunities."
-  image: "/images/banner.png"
+  image: "/images/bannerforest.jpg"
   button:
     enable: true
     label: "Book an Appointment"
-    link: "https://github.com/zeon-studio/astroplate"
+    link: "/contact"
 
 # Features
 features:

@@ -9,8 +9,8 @@
       "url": "/about"
     },
     {
-      "name": "News",
-      "url": "/news"
+      "name": "Insight",
+      "url": "/insight"
     },
     {
       "name": "Solutions",
@@ -18,15 +18,11 @@
       "hasChildren": true,
       "children": [
         {
-          "name": "Contact",
-          "url": "/contact"
-        },
-        {
-          "name": "Blog",
+          "name": "ESG Analyzer",
           "url": "/blog"
         },
         {
-          "name": "Authors",
+          "name": "Carbon Management",
           "url": "/authors"
         }
       ]
