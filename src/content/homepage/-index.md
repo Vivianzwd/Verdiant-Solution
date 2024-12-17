@@ -11,9 +11,9 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in Astroplate"
+  - title: "What's Included in Verdiant Earth"
     image: "/images/service-1.png"
-    content: "Astroplate is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
+    content: "Verdiant Earth is a comprehensive starter template that includes everything you need to get started with your Astro project. What's Included in Astroplate"
     bulletpoints:
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
@@ -24,23 +24,28 @@ features:
     button:
       enable: false
       label: "Get Started Now"
-      link: "#"
+      link: "/contact"
 
-  - title: "Discover the Key Features Of Astro"
+  - title: "Discover the Key Features Of Verdiant"
     image: "/images/service-2.png"
-    content: "Astro is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "Verdiant is an one stop solution provider for you to manage climate related risk and opportunities. As long been aware of the threats posed by climate change to our business. We’re here to help clients assess and manage the particular risks they face and successfully manage the transition to a low-carbon economy. Some of the key features are:"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "ESG Analyzer to support ESG dislcosure and Ratings"
+      - "ESG Standards and Regulation"
+      - "Climate Risk Assessment"
+      - "Carbon Footprint and Management"
+      - "Carbon Asset Measurement and reporting- MRV+"
+      - "Carbon Credit Marketplace "
+  
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/astroplate"
+      label: "Make an Appointment"
+      link: "/contact"
 
-  - title: "The Top Reasons to Choose Astro for Your Next Project"
+  - title: "The Top Reasons to Choose Verdiant Earth for Your ESG Partner"
     image: "/images/service-3.png"
-    content: "With Astro, you can build modern and content-focused websites without sacrificing performance or ease of use."
+    content: "With Verdiant Earth, you can build confidence and data focued ESG intellegence without risk of greenwashing or SDG washing."
+
     bulletpoints:
       - "Instantly load static sites for better user experience and SEO."
       - "Intuitive syntax and support for popular frameworks make learning and using Astro a breeze."

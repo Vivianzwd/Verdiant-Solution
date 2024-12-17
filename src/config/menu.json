@@ -5,12 +5,12 @@
       "url": "/"
     },
     {
-      "name": "About us",
+      "name": "About",
       "url": "/about"
     },
     {
       "name": "Insight",
-      "url": "/insight"
+      "url": "/blog"
     },
     {
       "name": "Solutions",
@@ -19,11 +19,11 @@
       "children": [
         {
           "name": "ESG Analyzer",
-          "url": "/blog"
+          "url": "/esg-analyzer"
         },
         {
           "name": "Carbon Management",
-          "url": "/authors"
+          "url": "/carbon-management"
         }
       ]
     }
