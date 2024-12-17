@@ -3,6 +3,10 @@
   - [Astroplate Studio](https://github.com/zeon-studio/astroplate) 
 
 
+# Working directory
+- src/Content
+- src/Config
+
 ## Install Dependencies
 npm install
 ## Development Command
