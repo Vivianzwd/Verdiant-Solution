@@ -1,12 +1,12 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Astro Project"
-  content: "Astroplate is a free starter template built with Astro and TailwindCSS, providing everything you need to jumpstart your Astro project and save valuable time."
+  title: "Accelerate a Sustainable Growth"
+  content: "Verdiant Earth is a Sustainability Solution partner with a focus on ESG risk compliance and Carbon management, providing an One-stop solution for capacity building and green growth opportunities."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
+    label: "Book an Appointment"
     link: "https://github.com/zeon-studio/astroplate"
 
 # Features

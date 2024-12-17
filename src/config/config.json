@@ -1,21 +1,21 @@
 {
   "site": {
-    "title": "DataTraces",
-    "base_url": "https://datatraces.netlify.app/",
+    "title": "Verdiant",
+    "base_url": "https://astroplate.netlify.app",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
-    "logo": "/images/datatraces_logo.png",
-    "logo_darkmode": "/images/datatraces_dark_logo.png",
+    "logo": "/images/verdiant_earth_logo_3.png",
+    "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
-    "logo_height": "63",
-    "logo_text": "DataTraces"
+    "logo_height": "30",
+    "logo_text": "Verdiant"
   },
 
   "settings": {
     "search": true,
     "sticky_header": true,
-    "theme_switcher": true,
+    "theme_switcher": false,
     "default_theme": "system",
     "pagination": 2,
     "summary_length": 200,
@@ -29,8 +29,8 @@
 
   "navigation_button": {
     "enable": true,
-    "label": "Repo",
-    "link": "https://github.com/minghao51/datatraces"
+    "label": "Book an appointment",
+    "link": "/contact"
   },
 
   "disqus": {
@@ -40,7 +40,7 @@
   },
 
   "metadata": {
-    "meta_author": "howt51",
+    "meta_author": "Vivian",
     "meta_image": "/images/og-image.png",
     "meta_description": "blog via astro boilerplate"
   }
